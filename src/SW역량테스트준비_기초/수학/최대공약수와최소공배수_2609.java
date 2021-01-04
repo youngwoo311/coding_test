@@ -1,4 +1,4 @@
-package baekjoon_SW역량테스트준비_기초.수학;
+package SW역량테스트준비_기초.수학;
 
 import java.util.Scanner;
 

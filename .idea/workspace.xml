@@ -43,11 +43,11 @@
   </component>
   <component name="RunManager" selected="Application.최소공배수_1934">
     <configuration name="나머지_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon_SW역량테스트준비_기초.수학.나머지_10430" />
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.나머지_10430" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon_SW역량테스트준비_기초.수학.*" />
+          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,11 +56,11 @@
       </method>
     </configuration>
     <configuration name="최소공배수_1934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon_SW역량테스트준비_기초.수학.최소공배수_1934" />
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.최소공배수_1934" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon_SW역량테스트준비_기초.수학.*" />
+          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="최대공약수와최소공배수_2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon_SW역량테스트준비_기초.수학.최대공약수와최소공배수_2609" />
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.최대공약수와최소공배수_2609" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon_SW역량테스트준비_기초.수학.*" />
+          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,22 +105,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609763438199" />
-    <state width="916" height="282" key="GridCell.Tab.0.bottom" timestamp="1609767428279">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609768095834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609767428279" />
-    <state width="916" height="282" key="GridCell.Tab.0.center" timestamp="1609767428278">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609768095834" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609768095834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609767428278" />
-    <state width="916" height="282" key="GridCell.Tab.0.left" timestamp="1609767428278">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609768095834" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609768095834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609767428278" />
-    <state width="916" height="282" key="GridCell.Tab.0.right" timestamp="1609767428278">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609768095834" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609768095834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609767428278" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609768095834" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1609762520657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
