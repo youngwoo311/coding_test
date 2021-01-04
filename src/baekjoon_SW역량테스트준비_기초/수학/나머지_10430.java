@@ -5,15 +5,19 @@ import java.util.Scanner;
 public class 나머지_10430 {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        int C = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println((A + B) % C);
-        System.out.println(((A % C) + (B % C)) % C);
-        System.out.println((A * B) % C);
-        System.out.println(((A % C) * (B % C)) % C);
+        int A = scanner.nextInt();
+        int B = scanner.nextInt();
+        int C = scanner.nextInt();
+
+        System.out.println((A+B)%C);
+        System.out.println(((A%C)+(B%C))%C);
+        System.out.println((A*B)%C);
+        System.out.println(((A%C)*(B%C)%C));
+
     }
 }
+
+
