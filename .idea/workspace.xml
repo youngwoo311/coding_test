@@ -41,7 +41,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.골드바흐의추측_6588_시간초과">
+  <component name="RunManager" selected="Application.일곱난쟁이_2309">
     <configuration name="GCD합_9613_int범위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.GCD합_9613_int범위" />
       <module name="coding_test" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최대공약수와최소공배수_2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.최대공약수와최소공배수_2609" />
+    <configuration name="일곱난쟁이_2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.일곱난쟁이_2309" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
+          <option name="PATTERN" value="SW역량테스트준비_기초.브루트포스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.일곱난쟁이_2309" />
         <item itemvalue="Application.골드바흐의추측_6588_시간초과" />
         <item itemvalue="Application.소수찾기_1978" />
         <item itemvalue="Application.GCD합_9613_int범위" />
         <item itemvalue="Application.최소공배수_1934" />
-        <item itemvalue="Application.최대공약수와최소공배수_2609" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +133,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609763438199" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609858164676">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609864769330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609858164676" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609858164676">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609864769330" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610205045014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609858164676" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609858164675">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610205045014" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1610205045014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609858164675" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609858164676">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610205045014" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1610205045014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609858164676" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610205045014" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1610205045014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610205045014" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1609762520657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -157,5 +161,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609857013867" />
+    <state x="493" y="256" width="934" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610201377605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="256" width="934" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1610201377605" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
