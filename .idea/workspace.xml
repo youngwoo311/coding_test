@@ -41,7 +41,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.일이삼더하기_9095">
+  <component name="RunManager" selected="Application.차이를최대로_10819">
+    <configuration name="차이를최대로_10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.차이를최대로_10819" />
+      <module name="coding_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SW역량테스트준비_기초.브루트포스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다음순열_10972_미해결" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.다음순열_10972_미해결" />
+      <module name="coding_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SW역량테스트준비_기초.브루트포스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="날짜계산_1476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.날짜계산_1476" />
       <module name="coding_test" />
@@ -55,38 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="소수찾기_1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.소수찾기_1978" />
-      <module name="coding_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="일곱난쟁이_2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.일곱난쟁이_2309" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SW역량테스트준비_기초.브루트포스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="골드바흐의추측_6588_시간초과" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.수학.골드바흐의추측_6588_시간초과" />
-      <module name="coding_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SW역량테스트준비_기초.수학.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.차이를최대로_10819" />
+        <item itemvalue="Application.다음순열_10972_미해결" />
         <item itemvalue="Application.일이삼더하기_9095" />
         <item itemvalue="Application.날짜계산_1476" />
         <item itemvalue="Application.일곱난쟁이_2309" />
-        <item itemvalue="Application.골드바흐의추측_6588_시간초과" />
-        <item itemvalue="Application.소수찾기_1978" />
       </list>
     </recent_temporary>
   </component>
@@ -137,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609864769330" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610210102306">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610472790823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610210102306" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1610210102305">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610472790823" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1610472790823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610210102305" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1610210102305">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610472790823" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1610472790823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610210102305" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1610210102306">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610472790823" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1610472790823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610210102306" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610472790823" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1609762520657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
