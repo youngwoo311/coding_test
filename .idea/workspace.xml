@@ -41,7 +41,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.테트로미노_14500">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SW역량테스트준비_기초.브루트포스" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.로또_6603">
     <configuration name="차이를최대로_10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.차이를최대로_10819" />
       <module name="coding_test" />
@@ -81,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="날짜계산_1476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.날짜계산_1476" />
+    <configuration name="로또_6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.로또_6603" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="일이삼더하기_9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.일이삼더하기_9095" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW역량테스트준비_기초.브루트포스.test" />
       <module name="coding_test" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.로또_6603" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.테트로미노_14500" />
         <item itemvalue="Application.차이를최대로_10819" />
         <item itemvalue="Application.다음순열_10972_미해결" />
-        <item itemvalue="Application.일이삼더하기_9095" />
-        <item itemvalue="Application.날짜계산_1476" />
       </list>
     </recent_temporary>
   </component>
@@ -137,22 +142,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609864769330" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610552014344">
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1610635754628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610552014344" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1610552014344">
+    <state width="1681" height="280" key="GridCell.Tab.0.bottom/0.0.1724.1036@0.0.1724.1036" timestamp="1610616844785" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610635754628" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1610635754628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610552014344" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1610552014344">
+    <state width="1681" height="280" key="GridCell.Tab.0.center/0.0.1724.1036@0.0.1724.1036" timestamp="1610616844785" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610635754628" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1610635754627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610552014344" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1610552014344">
+    <state width="1681" height="280" key="GridCell.Tab.0.left/0.0.1724.1036@0.0.1724.1036" timestamp="1610616844785" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610635754627" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1610635754628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610552014344" />
+    <state width="1681" height="280" key="GridCell.Tab.0.right/0.0.1724.1036@0.0.1724.1036" timestamp="1610616844785" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610635754628" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1610634830270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610634830270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1610634830270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610634830270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1610634830270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610634830270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1610634830270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610634830270" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1609762520657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
